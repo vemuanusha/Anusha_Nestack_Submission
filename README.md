@@ -91,8 +91,4 @@ src/server.js       HTTP layer (built-in http module)
 test/               unit + HTTP tests
 ```
 
-## Submission checklist
 
-1. Create a **private** GitHub repo `yourName_Nestack_Submission`; add bishal@nestack.com, sannidhya@nestack.com, sanjay@nestack.com.
-2. Deploy (Render/Railway/Fly: start command `npm start`) and put the URL at the top of this README.
-3. Submit the ZIP + repo + live link.
